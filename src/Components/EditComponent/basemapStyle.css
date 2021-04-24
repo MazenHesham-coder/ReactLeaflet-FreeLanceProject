@@ -1,0 +1,26 @@
+.basemapSwitcher {
+  width: 80px;
+  height: 80px;
+  border: none;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 4000;
+  top: 80%;
+  left: 90%;
+  background-color: white;
+  background-image: url("basemap_icons/world1.png");
+  background-size: cover;
+}
+.basemapSwitcher2 {
+  width: 80px;
+  height: 80px;
+  border: none;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 4000;
+  top: 80%;
+  left: 90%;
+  background-color: white;
+  background-image: url("basemap_icons/world2.png");
+  background-size: cover;
+}

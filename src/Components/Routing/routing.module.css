@@ -1,0 +1,52 @@
+.CloseIcon {
+  height: 32px;
+  width: 32px;
+  color: #555;
+  position: absolute;
+  left: 0.6%;
+  top: 45%;
+  z-index: 40000;
+  background-color: white;
+  border: solid black 1px;
+  border-radius: 5px;
+}
+.CloseIcon:hover {
+  height: 32px;
+  width: 32px;
+  color: #555;
+  position: absolute;
+  left: 0.6%;
+  top: 45%;
+  z-index: 40000;
+  background-color: white;
+  border: solid black 1px;
+  border-radius: 5px;
+}
+
+.RoutingIcon {
+  height: 32px;
+  width: 32px;
+  color: #555;
+  position: absolute;
+  left: 0.6%;
+  top: 39%;
+  z-index: 40000;
+  background-color: white;
+  border: solid black 1px;
+  border-radius: 5px;
+}
+.RoutingIcon:hover {
+  color: #555;
+  background-color: rgba(255, 255, 255, 0.356);
+  border: solid #555 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.CollapseButton:hover {
+  color: #555;
+  background-color: rgba(255, 255, 255, 0.356);
+  border: solid #555 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.leaflet-routing-container {
+  width: 280px;
+  background-color: rgb(241, 241, 241);
+  padding-top: 4px;
+  transition: margin-right 0.2s ease;
+}
